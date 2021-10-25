@@ -20,6 +20,15 @@ ul{
   font-variant: small-caps;
 }
 
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  color:black;
+}
+
 .tri-col{
   margin: auto;
 }
